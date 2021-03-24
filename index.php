@@ -1,4 +1,8 @@
 <DOCTYPE html>
+<!-- a simple viewer 
+by Rene Schaeffer www.reneschaeffer.de 
+with teaching by Martin Eigmueller  
+without loading external libraries-->
 <head>
 <meta charset ="utf-8"/>
 <title>slideshow</title>
